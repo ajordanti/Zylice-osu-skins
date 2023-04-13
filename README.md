@@ -1,7 +1,7 @@
 # Zylice's osu! skins
 
 # [Zylice Skin Mix 2023](https://drive.google.com/file/d/1rh8WlN8k2DRifWY-eU9TsUIQGOzpv_SG/view) 
-![](https://i.imgur.com/SZmj7xa.png)
+![](https://i.imgur.com/QTSIcIC.png)
 
 # [Zylice Skin Mix 2022](https://drive.google.com/file/d/1QRsELktLnH--R5zOwpXYjSnreT6Q3_jM/view)
 ![](https://i.imgur.com/xtYrzQ5.png)
