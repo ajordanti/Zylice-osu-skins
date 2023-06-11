@@ -1,7 +1,7 @@
 # Zylice's osu! skins
 *Last updated: June 9, 2023
 
-# [Rafis but Zylice](https://drive.google.com/file/d/18tJTqez4uPMFKLjb2y_uhtcZmbq63ITx/view)
+# [Rafis but Zylice](https://drive.google.com/file/d/18tJTqez4uPMFKLjb2y_uhtcZmbq63ITx/view?usp=sharing)
 ![](https://i.imgur.com/BEZjkRr.png)
 
 # [Zylice Skin Mix 2023](https://www.mediafire.com/file/9kj3ghsxqxtuk47/Zylice_Skin_Mix_2023.osk/file) 
