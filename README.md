@@ -1,6 +1,9 @@
 # Zylice's osu! skins
 *Last updated: January 19, 2024
 
+# [Zylice Skin Mix (2024)](https://drive.google.com/file/d/1rI0ljhUSqrDHYmgs320xDA4QgzqpqFKo/view)
+![](https://i.imgur.com/1PW71ry.png)
+
 # [BubbleSkinHappyEdit](https://drive.google.com/file/d/1N0cnfI5qG0gyQ5e7ZhErMObUzL0ZpQ_h/view)
 ![](https://i.imgur.com/0A6eayc.png)
 
