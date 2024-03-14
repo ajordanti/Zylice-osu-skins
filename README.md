@@ -1,5 +1,8 @@
 # Zylice's osu! skins
-*Last updated: January 19, 2024
+*Last updated: March 13, 2024
+
+#[fwootable DT Zylice Edit](https://drive.google.com/file/d/1s_iIBQz_XP4OY7OGg9xSjzXbkGSU30zB/view?usp=sharing)
+![](https://i.imgur.com/5bJdH8t.png)
 
 # [Zylice Skin Mix (2024)](https://drive.google.com/file/d/1rI0ljhUSqrDHYmgs320xDA4QgzqpqFKo/view)
 ![](https://i.imgur.com/1PW71ry.png)
