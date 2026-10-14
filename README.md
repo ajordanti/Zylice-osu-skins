@@ -1,6 +1,12 @@
 # Zylice's osu! skins
 *Last updated: October 14, 2026
 
+# [‹ₛ¥ᵥ› Zynight EZ](https://drive.google.com/file/d/1A5eDnMyYtae5GJHuK3sPPUbOuBQVRI9U/view?usp=sharing)
+![](https://i.imgur.com/lnNmCy7.png)
+
+# [‹ₛ¥ᵥ› Zynight DT](https://drive.google.com/file/d/1JpeO1W6YkvA_aFILYZxR7v32EEnR7TFE/view?usp=sharing)
+![](https://i.imgur.com/v9Mqpsv.png)
+
 # [‹ₛ¥ᵥ› Zynight](https://drive.google.com/file/d/1pftu-YLQOM81pEZr4IL03Y4MPfX_fJBh/view?usp=sharing)
 ![](https://i.imgur.com/wkzKoFT.png)
 
